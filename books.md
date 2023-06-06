@@ -5,7 +5,7 @@ The following is a list of free and/or open source books on machine learning, st
 * [Distributed Machine Learning Patterns](https://github.com/terrytangyuan/distributed-ml-patterns)  - Book (free to read online) + Code
 * [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
 * [Real World Machine Learning](https://www.manning.com/books/real-world-machine-learning) [Free Chapters]
-* [An Introduction To Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/) - Book + R Code
+* [An Introduction To Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/) - Book + R Code [Outdated, (page missing)]
 * [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) - Book
 * [Computer Age Statistical Inference (CASI)](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf) ([Permalink as of October 2017](https://perma.cc/J8JG-ZVFW)) - Book
 * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Book + IPython Notebooks
